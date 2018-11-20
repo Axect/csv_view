@@ -1,0 +1,8 @@
+[package]
+name = "csv_view"
+version = "0.1.0"
+authors = ["axect <edeftg@gmail.com>"]
+edition = "2018"
+description = "Simple CSV viewer on command line"
+
+[dependencies]
